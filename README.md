@@ -1,4 +1,4 @@
-### Vefforritun_II
+## Vefforritun_II
 * Nafn: *Arnar Ingi Njarðarson*
 * Netföng:
   * Skoli: *ain1@hi.is*
